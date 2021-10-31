@@ -4,7 +4,7 @@
 - 👨‍💻 From 2020 I was learning the Data Science entered into a vast world where I get dusty with data. I have gained knowledge on R Programming, Python Programming, Statistics, Machine Learning, Natuaral Language Processing & Tableau during my PGP.
 - I have worked on multiple projects & participated in Kaggle competitions.
 
-- I have been working as a System Engineer in an MNC where I have got the opportunity to work as an ETL developer & an Analyst. I have worked on recommender system & sentiment analysis models.
+- I have been working as a System Engineer in an MNC where I have got the opportunity to work as an ETL developer & an Analyst in Banking & Insurance Domain. I have worked on recommender system & sentiment analysis models. Before that I was working as a BI Support Executive in Telecom Domain.
 
 💞️ I’m looking to collaborate on a project based on ML, NLP & Python.
 
