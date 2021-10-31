@@ -13,24 +13,26 @@
 - 👀 I’m interested in reading books, cooking, travelling, learning new things from everyone. 
 - 🌱 I’m currently learning Natural Language Processing, Deep Learning, PySpark. My target is to learn all the key concepts & technologies of Data Science Lifecycle end-to-end by the end of this year.
 
-# Languages & Tools 🛠️
-R  
-Python  
-Machine Learning (Supervised & Unsupervised Learning Algorithm, Ensemble methods, Time Series Analysis)  
-Natural Language Processing  
-Tableau  
-MySQL  
-PostgreSQL  
-Cassandra  
-Hive  
-PySpark  
-Kafka  
-Java  
-Unix  
-MS Excel  
-Jupyter Notebook  
-Visual Studio Code  
-Eclipse
+# Technical Skills 🛠️
+- R  
+- Python  
+- Machine Learning (Supervised & Unsupervised Learning Algorithm, Ensemble methods, Time Series Analysis)  
+- Natural Language Processing  
+- Tableau  
+- MySQL  
+- PostgreSQL  
+- Cassandra  
+- Hive  
+- PySpark  
+- Kafka  
+- Java  
+- Unix  
+- Kubernetes
+- Flask
+- MS Excel  
+- Jupyter Notebook  
+- Visual Studio Code  
+- Eclipse
 
 
 - 📫 How to reach me?  You can reach out to me though my LinkedIn profile https://www.linkedin.com/in/abhinandansamal/
