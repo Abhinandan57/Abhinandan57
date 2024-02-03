@@ -10,9 +10,9 @@ My journey has been nothing short of remarkable, transitioning from a Mechanical
 
 I have worked on multiple personal projects. But I am still learning & fine tuning my skills. Its a never ending process.💡
 
-📌 I’m interested in Technology, History, Nature, Architecture, Books & Philosophy. I love reading books on Personal Development & Autobiography, Blogs on Data Science related topics and watching tech videos on YouTube.  
+📌  have a profound passion for a diverse range of subjects including Technology, History, Nature, Architecture, Books, and Philosophy. My enthusiasm extends to devouring books on Personal Development and Autobiography, exploring insightful blogs on Data Science, and immersing myself in tech videos on YouTube. This voracious appetite for knowledge fuels my constant quest for understanding and growth. 
 
-List of 📚 already read:  
+Here is a list of 📚 that I have read in last 8 months:  
 
 ✅ Steve Jobs by Walter Isaacson  
 
