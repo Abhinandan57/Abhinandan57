@@ -12,13 +12,20 @@ I have worked on multiple personal projects. But I am still learning & fine tuni
 📌 I’m interested in Technology, History, Nature, Architecture, Books & Philosophy. I love reading books on Personal Development & Autobiography, Blogs on Data Science related topics and watching tech videos on YouTube.  
 
 List of 📚 already read:
-✅ Steve Jobs by Walter Isaacson
-✅ Finish What You Start by Peter Hollins
-✅ Ikigai by Hector Garcia & Francesc Miralles
-✅ Limitless by Jim Kwik
-✅ The Power of Habit by Charles Duhigg
-✅ Make Your Bed by William H. McRaven
-✅ Wings of Fire by A. P. J. Abdul Kalam
+✅ Steve Jobs by Walter Isaacson  
+
+✅ Finish What You Start by Peter Hollins  
+
+✅ Ikigai by Hector Garcia & Francesc Miralles  
+
+✅ Limitless by Jim Kwik  
+
+✅ The Power of Habit by Charles Duhigg  
+
+✅ Make Your Bed by William H. McRaven  
+
+✅ Wings of Fire by A. P. J. Abdul Kalam  
+
 ✅ Eat That Frog! by Brian Tracy
 
 ✈️ I love listening music, making friends & traveling as well.  
