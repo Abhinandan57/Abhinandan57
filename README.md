@@ -5,16 +5,24 @@ I am Abhinandan Samal.♋️ I am from India. 🇮🇳 I did my Bachelors in Mec
 
 I have total 6 years and 4 months of IT industry experience. I was working as an IT Analyst till June 2022 in Tata Consultancy Services (TCS), where I have got the opportunity to work as an ETL developer & an Analyst in Banking & Insurance Domain. I have worked on recommendation system, sentiment analysis & other machine learning models in this period. Before that I was working as a BI Support Executive in Telecom Domain. From July 2022 to June 2023, I was working in IBM as a Data Engineer - Big Data Developer. 👨‍💻
 
-The journey, from being a graduated student from Mechanical Engineering to become an IT professional & then excelling in my career from a Support Executive to a Data Engineer with the hands-on experience in Data Science technologies, have been awesome. The journey, from being considered as the least performing employee in the team to become responsible for handling the most important and complicated module of the project, was exciting. 😎 In short, a journey of many Challenges, Learnings, Hardwork, Dedication, Failures & Successes! 😇 Still challenging myself by leaving my comfort zone for better opportunities, by becoming a Data Scientist. 💪👨‍💻 
+My journey has been nothing short of remarkable, transitioning from a Mechanical Engineering graduate to a proficient IT professional, advancing from a Support Executive to a skilled Data Engineer with a strong grasp of Data Science technologies. The excitement peaked as I transformed from being perceived as the least performing team member to taking charge of the project's most crucial and intricate module.😎 It has been a rollercoaster of challenges, continuous learning, hard work, unwavering dedication, occasional setbacks, and triumphant successes. In a nutshell, my story is a testament to resilience and growth.😇 Presently, I am pushing my boundaries further by venturing into the realm of Data Science, always eager to embrace new challenges and seize better opportunities.💪👨‍💻
 
-From 2021 I am learning the Data Science, entered into a vast world where the learning & upskilling opportunities are huge. I poses good knowledge on Python Programming, Advanced Statistics, Advanced Mathematics, Machine Learning, Natuaral Language Processing, Deep Learning, MySQL, Tableau etc.  
+I have worked on multiple personal projects. But I am still learning & fine tuning my skills. Its a never ending process.💡
 
-I have worked on multiple personal projects. But I am still learning & fine tuning my skills. Its a never ending process.💡   
+📌 I’m interested in Technology, History, Nature, Architecture, Books & Philosophy. I love reading books on Personal Development & Autobiography, Blogs on Data Science related topics and watching tech videos on YouTube.  
 
-📌 I love reading books on Personal Development & Autobiography, Blogs on Data Science related topics and watching tech videos on YouTube.  
+List of 📚 already read:
+✅ Steve Jobs by Walter Isaacson
+✅ Finish What You Start by Peter Hollins
+✅ Ikigai by Hector Garcia & Francesc Miralles
+✅ Limitless by Jim Kwik
+✅ The Power of Habit by Charles Duhigg
+✅ Make Your Bed by William H. McRaven
+✅ Wings of Fire by A. P. J. Abdul Kalam
+✅ Eat That Frog! by Brian Tracy
+
 ✈️ I love listening music, making friends & traveling as well.  
-👀 I’m interested in Technology, History, Nature, Architecture, Books & Philosophy.  
-I have always been fascinated about the cultural diversities around me. 🫶🏼
+👀 I have always been fascinated about the cultural diversities around me. 🫶🏼
 
 # Technical Skills 🛠️
 - Python  
