@@ -10,7 +10,7 @@ My journey has been nothing short of remarkable, transitioning from a Mechanical
 
 I have worked on multiple personal projects. But I am still learning & fine tuning my skills. Its a never ending process.💡
 
-📌  have a profound passion for a diverse range of subjects including Technology, History, Nature, Architecture, Books, and Philosophy. My enthusiasm extends to devouring books on Personal Development and Autobiography, exploring insightful blogs on Data Science, and immersing myself in tech videos on YouTube. This voracious appetite for knowledge fuels my constant quest for understanding and growth. 
+📌 I have a profound passion for a diverse range of subjects including Technology, History, Nature, Architecture, Books, and Philosophy. My enthusiasm extends to devouring books on Personal Development and Autobiography, exploring insightful blogs on Data Science, and immersing myself in tech videos on YouTube. This voracious appetite for knowledge fuels my constant quest for understanding and growth. 
 
 Here is a list of 📚 that I have read in last 8 months:  
 
