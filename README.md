@@ -45,5 +45,5 @@ I have always been fascinated about the cultural diversities around me. 🫶🏼
 
 📫 How to reach me?  You can reach out to me though my **LinkedIn profile** https://www.linkedin.com/in/abhinandan-samal-1bb4577a/ & **Instagram profile** https://www.instagram.com/abhinandansamal/ 🤳🏼
 
-### Keep Motivated, Have Faith on yourself & Work Smart. 💪🏼
+### Work Hard, Work Smart, Stay Motivated & Have Confidence on yourself. 💪🏼
 Happy Learning 😊
