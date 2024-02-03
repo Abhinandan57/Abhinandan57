@@ -11,7 +11,8 @@ I have worked on multiple personal projects. But I am still learning & fine tuni
 
 📌 I’m interested in Technology, History, Nature, Architecture, Books & Philosophy. I love reading books on Personal Development & Autobiography, Blogs on Data Science related topics and watching tech videos on YouTube.  
 
-List of 📚 already read:
+List of 📚 already read:  
+
 ✅ Steve Jobs by Walter Isaacson  
 
 ✅ Finish What You Start by Peter Hollins  
