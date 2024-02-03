@@ -1,4 +1,4 @@
-Hi, there! 👋 
+Hi, there! 👋 Hope you are doing great. 😊
 
 # 🚀 About Me
 I am Abhinandan Samal.♋️ I am from India. 🇮🇳 I did my Bachelors in Mechanical Engineering and graduated in 2016. Currently I am pursing my *Master's degree in Data Science* in Berlin, Germany.🧑‍🎓 🇩🇪
