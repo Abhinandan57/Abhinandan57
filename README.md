@@ -1,13 +1,13 @@
 Hi, there! 👋 
 
 # 🚀 About Me
-I am Abhinandan Samal.♋️ I am from India. I pursued my Bachelors in Mechanical Engineering and graduated in 2016. I have completed my Executive PGP in Data Science (Oct 2021 - Nov 2022) from IIIT-Bengaluru.🎓  
+I am Abhinandan Samal.♋️ I am from India. I did my Bachelors in Mechanical Engineering and graduated in 2016. Currently I am pursing my *Master's degree in Data Science*.🧑‍🎓  
 
-Currently I am pursing my *Master's degree in Data Science*.🧑‍🎓  
+I have total 6 years and 4 months of IT industry experience. I was working as an IT Analyst till June 2022 in Tata Consultancy Services (TCS), where I have got the opportunity to work as an ETL developer & an Analyst in Banking & Insurance Domain. I have worked on recommendation system, sentiment analysis & other machine learning models in this period. Before that I was working as a BI Support Executive in Telecom Domain. From July 2022 to June 2023, I was working in IBM as a Data Engineer - Big Data Developer. 👨‍💻
 
-I have total 6 years and 4 months of IT industry experience. I was working as an IT Analyst till June 2022 in an MNC where I have got the opportunity to work as an ETL developer & an Analyst in Banking & Insurance Domain. I have worked on recommender system & sentiment analysis models. Before that I was working as a BI Support Executive in Telecom Domain. From July 2022 to June 2023, I was working in another MNC as a Data Engineer. 👨‍💻  
+The journey, from being a graduated student from Mechanical Engineering to become an IT professional & then excelling in my career from a Support Executive to a Data Engineer with the hands-on experience in Data Science technologies, have been awesome. In short, a journey of many Challenges, Learnings, Failures & Successes! 😇 Still challenging myself for better opportunities by leaving my comfort zone. 💪 
 
-From 2021 I am learning the Data Science, entered into a vast world where the learning & upskilling opportunities are huge. I have gained knowledge on R Programming, Python Programming, Advanced Statistics, Advanced Mathematics, Machine Learning, Natuaral Language Processing, Deep Learning, Tableau etc. in these 3years.  
+From 2021 I am learning the Data Science, entered into a vast world where the learning & upskilling opportunities are huge. I poses good knowledge on Python Programming, Advanced Statistics, Advanced Mathematics, Machine Learning, Natuaral Language Processing, Deep Learning, MySQL, Tableau etc.  
 
 I have worked on multiple personal projects. But I am still learning & fine tuning my skills. Its a never ending process.💡   
 
@@ -17,7 +17,6 @@ I have worked on multiple personal projects. But I am still learning & fine tuni
 I have always been fascinated about the cultural diversities around me. 🫶🏼
 
 # Technical Skills 🛠️
-- R  
 - Python  
 - Machine Learning (Supervised & Unsupervised Learning Algorithm, Ensemble methods, Time Series Analysis)  
 - Natural Language Processing
@@ -30,7 +29,6 @@ I have always been fascinated about the cultural diversities around me. 🫶🏼
 - Kubernetes
 - AWS Sagemaker
 - Tableau
-- PowerBI
 - MySQL  
 - PostgreSQL  
 - Cassandra
