@@ -84,7 +84,15 @@ Here is a list of 📚 that I have read in last 8 months:
 - Eclipse
 
 
-📫 How to reach me?  You can reach out to me though my **LinkedIn profile** https://www.linkedin.com/in/abhinandan-samal-1bb4577a/ , **Kaggle profile** https://www.kaggle.com/abhinandansamal , **Medium profile** https://medium.com/@abhinandan198 & **Instagram profile** https://www.instagram.com/abhinandansamal/ 🤳🏼
+📫 How to reach me?  You can reach out to me though:
+
+**LinkedIn profile** https://www.linkedin.com/in/abhinandan-samal-1bb4577a/  
+
+**Kaggle profile** https://www.kaggle.com/abhinandansamal  
+
+**Medium profile** https://medium.com/@abhinandan198  
+
+**Instagram profile** https://www.instagram.com/abhinandansamal/ 🤳🏼
 
 ### Work Smart, Stay Motivated & Have Confidence on yourself. 💪🏼
 Happy Learning 😊
