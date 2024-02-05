@@ -10,6 +10,32 @@ My journey has been nothing short of remarkable, transitioning from a Mechanical
 
 I have worked on multiple personal projects. But I am still learning & fine tuning my skills. Its a never ending process.💡
 
+As a part of improving my knowledge on Statistics, Mathematics & Project Management & to improve my technical knowledge, I have been referring below mentioned books:
+
+✅ __Learn Python Programming (2nd Edition)__, By Fabrizio Romano
+
+✅ __Version Control with Git__, By Jon Loeliger & Matthew McCullough, O'REILLY Publication
+
+✅ __Active Calculus (2018 Edition)__, By Matthew Boelkins, David Austin & Steven Schlicker
+
+✅ __Single and Multivariable Calculus__
+
+✅ __Applied Fourier Analysis__, By Tim Olson, Birkhäuser Publication
+
+✅ __Practical Statistics for Data Scientists - 50 essential concepts__, By Peter Bruce & Andrew Bruce, O'REILLY Publication
+
+✅ __Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow (2nd Edition)__, By Aurelien Geron, O'REILLY Publication
+
+✅ __Deep Learning__, By Ian Goodfellow, Yoshua Bengio and Aaron Courville
+
+✅ __Docker Up & Running (2nd Edition)__, By Sean P.Kane & Karl Matthias, O'REILLY Publication
+
+✅ __Kubernetes Up & Running (2nd Edition)__, By Brendan Burns, Joe Beda & Kelsey Hightower, O'REILLY Publication
+
+✅ __Project Management (12th Edition)__, By Harold Kerzner, WILEY Publication
+
+✅ __Software Processes and Life Cycle Models__, By Ralf Kneuper, Springer Publication
+
 📌 I have a profound passion for a diverse range of subjects including Technology, History, Nature, Architecture, Books, and Philosophy. My enthusiasm extends to devouring books on Personal Development and Autobiography, exploring insightful blogs on Data Science, and immersing myself in tech videos on YouTube. This voracious appetite for knowledge fuels my constant quest for understanding and growth. 
 
 Here is a list of 📚 that I have read in last 8 months:  
@@ -34,27 +60,25 @@ Here is a list of 📚 that I have read in last 8 months:
 👀 I have always been fascinated about the cultural diversities around me. 🫶🏼
 
 # Technical Skills 🛠️
-- Python  
-- Machine Learning (Supervised & Unsupervised Learning Algorithm, Ensemble methods, Time Series Analysis)  
+- Java, Python  
+- Machine Learning (Supervised & Unsupervised Learning Algorithm, Ensemble Techniques, Recommendation System, Time Series Analysis)  
 - Natural Language Processing
-- Deep Learning
-- TensorFlow
-- Keras
+- Deep Learning (ANN, CNN, RNN)
+- TensorFlow, Keras
 - PyTorch
 - PySpark
 - Hadoop
-- Kubernetes
+- Docker, Kubernetes
 - AWS Sagemaker
 - Tableau
-- MySQL  
-- PostgreSQL  
+- MySQL, PostgreSQL  
 - Cassandra
 - Hive   
 - Kafka
 - KSQL
 - Unix
 - Flask
-- MS Excel  
+- MS Word, Excel, PowerPoint  
 - Jupyter Notebook  
 - Visual Studio Code  
 - Eclipse
