@@ -12,49 +12,49 @@ I have worked on multiple personal projects. But I am still learning & fine tuni
 
 As a part of improving my knowledge on Statistics, Mathematics & Project Management & to improve my technical knowledge, I have been referring below mentioned books:
 
-✅ __Learn Python Programming (2nd Edition)__, by Fabrizio Romano
+  ✅ __Learn Python Programming (2nd Edition)__, by Fabrizio Romano
 
-✅ __Version Control with Git__, by Jon Loeliger & Matthew McCullough, O'REILLY Publication
+  ✅ __Version Control with Git__, by Jon Loeliger & Matthew McCullough, O'REILLY Publication
 
-✅ __Active Calculus (2018 Edition)__, by Matthew Boelkins, David Austin & Steven Schlicker
+  ✅ __Active Calculus (2018 Edition)__, by Matthew Boelkins, David Austin & Steven Schlicker
 
-✅ __Single and Multivariable Calculus__
+  ✅ __Single and Multivariable Calculus__
 
-✅ __Applied Fourier Analysis__, by Tim Olson, Birkhäuser Publication
+  ✅ __Applied Fourier Analysis__, by Tim Olson, Birkhäuser Publication
 
-✅ __Practical Statistics for Data Scientists - 50 essential concepts__, by Peter Bruce & Andrew Bruce, O'REILLY Publication
+  ✅ __Practical Statistics for Data Scientists - 50 essential concepts__, by Peter Bruce & Andrew Bruce, O'REILLY Publication
 
-✅ __Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow (2nd Edition)__, by Aurelien Geron, O'REILLY Publication
+  ✅ __Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow (2nd Edition)__, by Aurelien Geron, O'REILLY Publication
 
-✅ __Deep Learning__, by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+  ✅ __Deep Learning__, by Ian Goodfellow, Yoshua Bengio and Aaron Courville
 
-✅ __Docker Up & Running (2nd Edition)__, by Sean P.Kane & Karl Matthias, O'REILLY Publication
+  ✅ __Docker Up & Running (2nd Edition)__, by Sean P.Kane & Karl Matthias, O'REILLY Publication
 
-✅ __Kubernetes Up & Running (2nd Edition)__, by Brendan Burns, Joe Beda & Kelsey Hightower, O'REILLY Publication
+  ✅ __Kubernetes Up & Running (2nd Edition)__, by Brendan Burns, Joe Beda & Kelsey Hightower, O'REILLY Publication
 
-✅ __Project Management (12th Edition)__, by Harold Kerzner, WILEY Publication
+  ✅ __Project Management (12th Edition)__, by Harold Kerzner, WILEY Publication
 
-✅ __Software Processes and Life Cycle Models__, by Ralf Kneuper, Springer Publication
+  ✅ __Software Processes and Life Cycle Models__, by Ralf Kneuper, Springer Publication
 
 📌 I have a profound passion for a diverse range of subjects including Technology, History, Nature, Architecture, Books, and Philosophy. My enthusiasm extends to devouring books on Personal Development and Autobiography, exploring insightful blogs on Data Science, and immersing myself in tech videos on YouTube. This voracious appetite for knowledge fuels my constant quest for understanding and growth. 
 
 Here is a list of 📚 that I have read in last 8 months:  
 
-✅ __Steve Jobs__, by Walter Isaacson  
+  ✅ __Steve Jobs__, by Walter Isaacson  
 
-✅ __Finish What You Start__, by Peter Hollins  
+  ✅ __Finish What You Start__, by Peter Hollins  
 
-✅ __Ikigai__, by Hector Garcia & Francesc Miralles  
+  ✅ __Ikigai__, by Hector Garcia & Francesc Miralles  
 
-✅ __Limitless__, by Jim Kwik  
+  ✅ __Limitless__, by Jim Kwik  
 
-✅ __The Power of Habit__, by Charles Duhigg  
+  ✅ __The Power of Habit__, by Charles Duhigg  
 
-✅ __Make Your Bed__, by William H. McRaven  
+  ✅ __Make Your Bed__, by William H. McRaven  
 
-✅ __Wings of Fire__, by A. P. J. Abdul Kalam  
+  ✅ __Wings of Fire__, by A. P. J. Abdul Kalam  
 
-✅ __Eat That Frog!__, by Brian Tracy
+  ✅ __Eat That Frog!__, by Brian Tracy
 
 ✈️ I love listening music, making friends & traveling as well.  
 👀 I have always been fascinated about the cultural diversities around me. 🫶🏼
